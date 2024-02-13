@@ -1,0 +1,5 @@
+**cmake-build-debug**
+*.ipynb
+*.o
+**build**
+.vscode/
